@@ -1,0 +1,5 @@
+ro.product.brand=Nokia
+ro.product.name=PDA_sprout
+ro.product.device=PDA_sprout
+ro.build.product=PDA_sprout
+ro.treble.enabled=true
